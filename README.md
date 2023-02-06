@@ -13,13 +13,13 @@ models in this study confirmed the conclusions reported in the published article
 
 ### Data and Report Links
 
-[Report (google docs)](https://docs.google.com/document/d/1oxsSpUl5M1c_3JQwaIOyQ0mhT3f-OFIU/edit#heading=h.x4xbgkkanmx5)
-[Report (pdf)](https://github.com/slmcrae/terror_management_studies/blob/master/terror_management_studies.pdf)
-[Original Data Study 1](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%201%20(prepped%2C%20recoded).xlsx)
-[Original Data Study 2](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%202%20(prepped%2C%20recoded).xlsx)
+[Report (google docs)](https://docs.google.com/document/d/1oxsSpUl5M1c_3JQwaIOyQ0mhT3f-OFIU/edit#heading=h.x4xbgkkanmx5)<br>
+[Report (pdf)](https://github.com/slmcrae/terror_management_studies/blob/master/terror_management_studies.pdf)<br>
+[Original Data Study 1](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%201%20(prepped%2C%20recoded).xlsx)<br>
+[Original Data Study 2](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%202%20(prepped%2C%20recoded).xlsx)<br>
 
 ### Photo Credit (slmcrae.github.io)
-Cloud photo: Noel Le Mire, https://simple.wikipedia.org/wiki/Death_%28personification%29<br>
+Grim Reaper image: Noel Le Mire, https://simple.wikipedia.org/wiki/Death_%28personification%29<br>
 <br>
 <br>
 
