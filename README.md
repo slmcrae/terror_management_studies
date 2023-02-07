@@ -13,7 +13,7 @@ models in this study confirmed the conclusions reported in the published article
 
 ### Data and Report Links
 
-[Report (google docs)](https://docs.google.com/document/d/1oxsSpUl5M1c_3JQwaIOyQ0mhT3f-OFIU/edit#heading=h.x4xbgkkanmx5)<br>
+[Report (google docs)]https://docs.google.com/document/d/1oxsSpUl5M1c_3JQwaIOyQ0mhT3f-OFIU/edit?usp=sharing&ouid=113254014887000466986&rtpof=true&sd=true)<br>
 [Report (pdf)](https://github.com/slmcrae/terror_management_studies/blob/master/terror_management_studies.pdf)<br>
 [Original Data Study 1](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%201%20(prepped%2C%20recoded).xlsx)<br>
 [Original Data Study 2](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%202%20(prepped%2C%20recoded).xlsx)<br>
