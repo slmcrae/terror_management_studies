@@ -18,7 +18,7 @@ models in this study confirmed the conclusions reported in the published article
 [Original Data Study 1](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%201%20(prepped%2C%20recoded).xlsx)<br>
 [Original Data Study 2](https://github.com/slmcrae/terror_management_studies/blob/master/TMMS%20-%20Study%202%20(prepped%2C%20recoded).xlsx)<br>
 
-### Photo Credit (slmcrae.github.io)
+**_Photo_** **_Credits_**<br>
 Grim Reaper image: Noel Le Mire, https://simple.wikipedia.org/wiki/Death_%28personification%29<br>
 <br>
 <br>
